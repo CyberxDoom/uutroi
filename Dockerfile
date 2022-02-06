@@ -3,7 +3,7 @@
 # This file is a part of < https://github.com/aldrinsai6/Uutroi/ >
 # PLease read the GNU Affero General Public License in <https://www.github.com/aldrinsai6/Uutroi/blob/main/LICENSE/>.
 
-FROM aldrinsai6/Uutroi:main
+FROM aldrinsai6/uutroi:main
 
 # set timezone
 ENV TZ=Asia/Kolkata
